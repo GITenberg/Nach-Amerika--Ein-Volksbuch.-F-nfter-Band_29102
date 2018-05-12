@@ -27,6 +27,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/8053
     wikipedia: http://de.wikipedia.org/wiki/Friedrich_Gerst%C3%A4cker
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/29102#Nach-Amerika--Ein-Volksbuch.-F-nfter-Band
 gutenberg_bookshelf: DE Prosa
 gutenberg_issued: '2009-06-12'
 gutenberg_type: Text
